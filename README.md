@@ -7,7 +7,7 @@ The aim of this repository is to provide a central source of well-organized and 
 
 ## Contents
 - **Data Modeling Standards**: Naming conventions, schema design, and best practices for database modeling.
--   
+  
 ## Contributing
 Feel free to contribute by adding new documents, improving existing content, or suggesting new topics!
 
